@@ -21,60 +21,29 @@ For the purpose of this project, we created some visualizations to show the gend
 
 
 
-## Process
+### Data Cleaning
 
 Since the data was already cleaned, we could start with analysis and visualizations right away. However, we used info() method to make sure all the types were matched. 
 ![](images/type_info.png)
 
+As you can see in the images, all of the types were float. Therefore, we could start creating visualization.
 
+### Data Visualization
 
-### Break down into end to end tests
+1. Colors: We used RGB color codes to select the colors which were easy to see for our color-blinded audience.
+2. Graph chart: We used line chart to better see the gender gap in different college majors.
+3. We first compared the gender gap in STEM majors.
+![](images/stem_degrees.png)
+4. We then created a visualization to see the gender gap among the other majors.
+![](images/college_degrees.png)
 
-Explain what these tests test and why
+### Conclusion
 
-```
-Give an example
-```
+1. Gender Gap in STEM majors:
+- As shown in the charts above, the huge gender gap is in the Engineer majors. It shows that the percentage of men graduates in Engineering major is much higher than women.On the other hand, there is a small gender gap in Math and Statistics Majors.
 
-### And coding style tests
+-  One interesting fact is that in 1980s there were more women graduting Computer Science major than 2010s.
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+2. Gender Gap in Non Stem Majors:
+- the largest gaps between the genders in different majors in 2000s, are among the Health Professionals, Public Administrations, Education, Computer Science and Engineering.
 
