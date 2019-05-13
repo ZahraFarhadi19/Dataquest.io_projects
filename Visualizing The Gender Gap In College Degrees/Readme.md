@@ -13,31 +13,18 @@ For the purpose of this project, we created some visualizations to show the gend
 
 1. Anaconda - navigator for using Jupyther notebook. 
 2. Python
-```
-Give examples
-```
 
 ### Packages Used
 
 1. Pandas
 2. Matplotlib
 
-```
-Give the example
-```
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Process
 
 Since the data was already cleaned, we could start with analysis and visualizations right away. However, we used info() method to make sure all the types were matched. 
-
+![](images/type_info.png)
 
 
 
