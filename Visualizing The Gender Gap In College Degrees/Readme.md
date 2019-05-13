@@ -1,30 +1,26 @@
 # Gender Gap in College Degress
 
-The Department of Education Statistics releases a data set annually containing the percentage of bachelor's degrees granted to women from 1970 to 2012. The data set is broken up into 17 categories of degrees, with each column as a separate category.
+[The Department of Education Statistics](https://nces.ed.gov/programs/digest/2013menu_tables.asp) releases a data set annually containing the percentage of bachelor's degrees granted to women from 1970 to 2012. The data set is broken up into 17 categories of degrees, with each column as a separate category.
 
-Randal Olson, a data scientist at University of Pennsylvania, has cleaned the data set and made it available on his personal website here You can download the dataset Randal compiled here.
+Randal Olson, a data scientist at University of Pennsylvania, has cleaned the data set and made it available on his personal website [here.](http://www.randalolson.com/wp-content/uploads/percent-bachelors-degrees-women-usa.csv)
 
 Randal compiled this data set to explore the gender gap in STEM fields, which stands for science, technology, engineering, and mathematics. This gap is reported on often in the news and not everyone agrees that there is a gap.
 
-For the purpose of this project, we will create various visualizations to explore this dataset.
+For the purpose of this project, we created some visualizations to show the gender gap in college degrees.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
+1. Anaconda - navigator for using Jupyther notebook. 
+2. Python
 ```
 Give examples
 ```
 
-### Installing
+### Packages Used
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+1. Pandas
+2. Matplotlib
 
 ```
 Give the example
@@ -38,9 +34,12 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
+## Process
 
-Explain how to run the automated tests for this system
+Since the data was already cleaned, we could start with analysis and visualizations right away. However, we used info() method to make sure all the types were matched. 
+
+
+
 
 ### Break down into end to end tests
 
