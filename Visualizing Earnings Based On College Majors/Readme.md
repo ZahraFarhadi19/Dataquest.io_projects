@@ -37,5 +37,10 @@ Each row in the dataset represented a different major in college and contains in
 2. How many majors are predominantly male? Predominantly female?
 3. Which category of majors have the most students?
 
+## Plots
+To answer to the research question, I 
+'''bash
+pip install pythonwhat
+'''
 
 
