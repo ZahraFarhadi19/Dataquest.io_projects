@@ -14,26 +14,23 @@ Each row in the dataset represented a different major in college and contains in
 |Total         |Float         |
 |Men           |Float         |
 |Women         |Float         |
-|Major_category  | Object     |
+|Major_category| Object       |
+|ShareWomen    |Float         |
+|Sample_size   | int          |
+|Employed      | int          |
+|Employed      | int          |
+|Full_time     | int          |
+|Part_time     | int          |
+|Full_time_year_round| int    |
+|Unemployed    | int          |
+|Unemployment_rate | Float    |
+|Median        | int          |
+|P25th         | int          |
+|P75th         | int          |
+|College_jobs  | int          |
+|Non_college_jobs | int       |
+|Non_college_jobs| int        |
+|Low_wage_jobs | int          |
 
-Rank                    173 non-null int64
-Major_code              173 non-null int64
-Major                   173 non-null object
-Total                   172 non-null float64
-Men                     172 non-null float64
-Women                   172 non-null float64
-Major_category          173 non-null object
-ShareWomen              172 non-null float64
-Sample_size             173 non-null int64
-Employed                173 non-null int64
-Full_time               173 non-null int64
-Part_time               173 non-null int64
-Full_time_year_round    173 non-null int64
-Unemployed              173 non-null int64
-Unemployment_rate       173 non-null float64
-Median                  173 non-null int64
-P25th                   173 non-null int64
-P75th                   173 non-null int64
-College_jobs            173 non-null int64
-Non_college_jobs        173 non-null int64
-Low_wage_jobs           173 non-null int64
+
+
