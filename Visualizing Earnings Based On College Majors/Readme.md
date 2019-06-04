@@ -9,7 +9,12 @@ Each row in the dataset represented a different major in college and contains in
 | Variables    | Data Types   |
 |--------------|--------------|             
 |Rank          | int          |             
-|   hello      |hello         |            
+|Major_code    |int           | 
+|Major         |Object        |
+|Total         |Float         |
+|Men           |Float         |
+|Women         |Float         |
+|Major_category  | Object     |
 
 Rank                    173 non-null int64
 Major_code              173 non-null int64
