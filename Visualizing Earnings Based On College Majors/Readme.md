@@ -4,7 +4,12 @@ In this project, I worked with a dataset on the job outcomes of students who gra
 
 ## Variables
 
-Each row in the dataset represents a different major in college and contains information on gender diversity, employment rates, median salaries, and more. Here are some of the columns in the dataset:
+Each row in the dataset represented a different major in college and contains information on gender diversity, employment rates, median salaries, and more. Here are some of the columns in the dataset:
+
+| First Header | Second Header|
+|--------------|--------------|             
+|Cell content  | cell content |             
+|   hello      |hello         |            
 
 Rank                    173 non-null int64
 Major_code              173 non-null int64
