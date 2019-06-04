@@ -6,9 +6,9 @@ In this project, I worked with a dataset on the job outcomes of students who gra
 
 Each row in the dataset represented a different major in college and contains information on gender diversity, employment rates, median salaries, and more. Here are some of the columns in the dataset:
 
-| First Header | Second Header|
+| Variables    | Data Types   |
 |--------------|--------------|             
-|Cell content  | cell content |             
+|Rank          | int          |             
 |   hello      |hello         |            
 
 Rank                    173 non-null int64
