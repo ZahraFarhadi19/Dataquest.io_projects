@@ -39,8 +39,10 @@ Each row in the dataset represented a different major in college and contains in
 
 ## Plots
 To answer to the research question, I 
-'''bash
+
+```bash
 pip install pythonwhat
-'''
+```
+
 
 
