@@ -32,5 +32,10 @@ Each row in the dataset represented a different major in college and contains in
 |Non_college_jobs| int        |
 |Low_wage_jobs | int          |
 
+## Research Questions:
+1. Do students in more popular majors make more money?
+2. How many majors are predominantly male? Predominantly female?
+3. Which category of majors have the most students?
+
 
 
